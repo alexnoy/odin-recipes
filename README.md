@@ -1,1 +1,1 @@
-# odin-recipes
+This project is to create a recipes webpage using basic html. It won't be very pretty as it will only include HTML, but once completed it will show that I knowledgeable in basic HTML with things such as: creating a basic structure, anchor tags, lists, and a few others.
