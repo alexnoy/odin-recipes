@@ -1,0 +1,45 @@
+body {
+    background-color:lightgrey;
+    font-family:Arial, sans-serif;
+}
+
+a{
+    color:black;
+}
+
+p,ol{
+    background-color:red;
+    color:beige;
+}
+
+ul li {
+    list-style:none;
+}
+
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h2{
+    text-align: center;
+    border:5px;
+    border-color:blue;
+    border-style:dashed;
+    border-radius:25px;
+    background-color:white;
+}
+
+h3{
+    text-align:center;
+}
+
+h1,ul{
+    text-align: center;
+    border:5px;
+    border-color:#ff0000;
+    border-style:double;
+    border-radius:50px;
+    background-color:beige;
+}
