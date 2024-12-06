@@ -7,12 +7,12 @@ a{
     color:black;
 }
 
-p,ol{
+.paragraph,#steps{
     background-color:red;
     color:beige;
 }
 
-ul li {
+#ingredients li {
     list-style:none;
 }
 
@@ -22,7 +22,7 @@ img {
     margin-right:auto;
 }
 
-h2{
+.heading2{
     text-align: center;
     border:5px;
     border-color:blue;
@@ -35,7 +35,7 @@ h3{
     text-align:center;
 }
 
-h1,ul{
+h1,#ingredients{
     text-align: center;
     border:5px;
     border-color:#ff0000;
